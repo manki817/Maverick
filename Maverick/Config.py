@@ -77,13 +77,13 @@ class Config(object):
   parse_alt_as_figcaption = True
 
   # For site
-  site_name = "Yet Another Maverick Site"
+  site_name = "Erstwhile"
   site_logo = ""
   site_build_date = ""
-  author = ""
+  author = "Manki"
   email = ""
-  author_homepage = ""
-  description = ""
+  author_homepage = "https://www.m97v.com"
+  description = "愿与你分享所有"
   key_words = []
   language = "english"
   background_img = ""
